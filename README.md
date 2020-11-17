@@ -1,5 +1,6 @@
 <head>
-<link rel="stylesheet" href="font-mfizz-2.4.1/font-mfizz.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
 </head>
 
 ### <samp>Hey, there! 👋 </samp>
@@ -15,7 +16,7 @@
 ### <samp>I am currently working with 👇 </samp>
 
 <div style='display: flex; align-items:center; flex-wrap: wrap'>
-<a  href="https://www.ruby-lang.org/en/" taget="_blank"><i class="icon-ruby" style="color: #820C02; font-size: 85px; margin-left: 20px;"></i></a>
+<a  href="https://www.ruby-lang.org/en/" taget="_blank"><i class="devicon-ruby-plain" style="color: #820C02; font-size: 85px; margin-left: 20px;"></i></a>
 <a href="https://rubyonrails.org/" taget="_blank"><i class="icon-ruby-on-rails-alt" style="color: red; font-size: 80px; margin-left: 20px;"></i></a>
 <a href="https://www.javascript.com/" taget="_blank"><i class="icon-javascript-alt" style="color:  rgb(247, 203, 9); font-size: 90px; margin-left: 20px;"></i></a>
 <a href="https://reactjs.org/" taget="_blank"><i class="icon-reactjs" style="color: #33ECFF; font-size: 80px; margin-left: 10px;"></i></a>
