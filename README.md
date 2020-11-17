@@ -1,6 +1,6 @@
 ### <samp>Hey, there! 👋 </samp>
 
-<samp>I'm a Full Stack Web Developer from Morocco 🇲🇦 highly motivated, dynamic, persevering, rigorous. I am passionate about Web Developmentand open source. 🤗 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.</samp>
+<samp>I'm a Full Stack Web Developer from Morocco 🇲🇦 highly motivated, dynamic, persevering, rigorous. I am passionate about Web Developmentand and open source. 🤗 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.</samp>
 
 <samp> 📒 Check my [Portfolio](http://bouaik.github.io/Portfolio) </samp>
 
