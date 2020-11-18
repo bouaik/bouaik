@@ -19,3 +19,4 @@
 <a href="https://nodejs.org/" taget="_blank"><img src='icons/node-js.svg' width="80"/></a>
 <a href="https://www.heroku.com/" taget="_blank"><img src='icons/heroku.svg' width="80"/></a>
 <a href="https://www.postgresql.org/" taget="_blank"><img src='icons/postgresql.svg' width="80"/></a>
+<a href="https://git-scm.com/" taget="_blank"><img src='icons/git.svg' width="80"/></a>
